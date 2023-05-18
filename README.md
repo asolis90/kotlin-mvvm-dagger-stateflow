@@ -17,7 +17,7 @@ Coroutines: Site - https://kotlinlang.org/docs/reference/coroutines-overview.htm
 <br /><br />
 
 ### Show some :heart: by:
-[![GitHub stars](https://img.shields.io/github/stars/asolis90/kotlin-mvvm-base.svg?style=social&label=Star)](https://github.com/asolis90/kotlin-mvvm-base) [![GitHub forks](https://img.shields.io/github/forks/asolis90/kotlin-mvvm-base.svg?style=social&label=Fork)](https://github.com/asolis90/kotlin-mvvm-base/fork) [![GitHub watchers](https://img.shields.io/github/watchers/asolis90/kotlin-mvvm-base.svg?style=social&label=Watch)](https://github.com/asolis90/kotlin-mvvm-base) [![GitHub followers](https://img.shields.io/github/followers/asolis90.svg?style=social&label=Follow)](https://github.com/asolis90)
+[![GitHub stars](https://img.shields.io/github/stars/asolis90/kotlin-mvvm-dagger-stateflow.svg?style=social&label=Star)](https://github.com/asolis90/kotlin-mvvm-dagger-stateflow) [![GitHub forks](https://img.shields.io/github/forks/asolis90/kotlin-mvvm-dagger-stateflow.svg?style=social&label=Fork)](https://github.com/asolis90/kotlin-mvvm-dagger-stateflow/fork) [![GitHub watchers](https://img.shields.io/github/watchers/asolis90/kotlin-mvvm-dagger-stateflow.svg?style=social&label=Watch)](https://github.com/asolis90/kotlin-mvvm-dagger-stateflow) [![GitHub followers](https://img.shields.io/github/followers/asolis90.svg?style=social&label=Follow)](https://github.com/asolis90)
 <br />
 
 License
